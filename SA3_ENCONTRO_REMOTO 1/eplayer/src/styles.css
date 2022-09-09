@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+  /*fonte google - ROBOTO - REGULAR - 25 - PARA O MENU*/
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+  @font-face{
+  font-family: Titilium-Regular;
+  src: url(/assets/fontes/TitilliumWeb-Regular.ttf);
+  }
+
+  /*CSS reset*/
+  *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
